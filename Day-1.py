@@ -71,8 +71,6 @@ def multi(m,n):
 main()
 
 
-
-
 """
 def main():
     x = int(input("a positive number: "))
@@ -91,6 +89,10 @@ def is_even(n):
 
 def is_even(n):
     return n % 2 == 0
+
+def sub(a):
+    ans = a-5
+    return ans
 
 main()
 
