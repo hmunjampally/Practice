@@ -79,7 +79,7 @@ def main():
     if isEven(x):
         print("Even Number")
     else:
-        print("Odd Number")
+        print("given is an Odd Number")
 
 def isEven(value):
     if value % 2 == 0:
